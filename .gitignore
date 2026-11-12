@@ -12,3 +12,7 @@ build/
 dist/
 *.spec
 界面预览.png
+# 旧版（Python + 浏览器）启动方式，exe 版不需要
+启动.bat
+python-help.txt
+自检.py

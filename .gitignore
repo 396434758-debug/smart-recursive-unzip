@@ -1,0 +1,14 @@
+# 个人数据：密码配置、解压记录
+config.json
+已解压记录.json
+# 本地缓存、备份、打包产物
+.browser_profile/
+.workbuddy/
+__pycache__/
+_自检样例/
+*.bak
+*.exe
+build/
+dist/
+*.spec
+界面预览.png
